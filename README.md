@@ -12,3 +12,7 @@ Tutorial notebooks for QCE at IEEE 2023 in Bellevue, Washington
 
 - 📚 [Documentation](https://docs.covalent.xyz/docs/)
 - 👩‍🏫 [Tutorials](https://docs.covalent.xyz/docs/user-documentation/tutorials/)
+
+## References
+
+- Baker, Jack S., et al. "Quantum Variational Rewinding for Time Series Anomaly Detection." arXiv preprint [arXiv:2210.16438](https://arxiv.org/abs/2210.16438) (2022).
