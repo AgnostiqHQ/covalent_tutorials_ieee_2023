@@ -1,0 +1,2 @@
+covalent[qiskit] @ git+https://github.com/AgnostiqHQ/covalent@develop
+matplotlib==3.8.0
