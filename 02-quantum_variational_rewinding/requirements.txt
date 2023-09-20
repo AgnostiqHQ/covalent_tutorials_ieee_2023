@@ -2,4 +2,4 @@ matplotlib==3.8.0
 notebook==6.5.2
 PennyLane==0.32.0
 PennyLane-Lightning==0.32.0
-torch==1.13.0
+torch==1.13.1
